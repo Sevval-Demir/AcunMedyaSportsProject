@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcunMedyaSportsProject.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e7c2d5d47fe538d6f613c6c9e97034cc468db0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcunMedyaSportsProject.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcunMedyaSportsProject.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
